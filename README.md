@@ -6,6 +6,8 @@ A Julia/JuMP implementation of the exact algorithm of Tamby and Vanderpooten for
 > multiobjective discrete optimization problems.* INFORMS Journal on Computing
 > 33(1):72–85.
 
+Please cite their paper when using this code.
+
 ## Origin of this code
 
 This code is a **translation into Julia, made by Claude (Anthropic's AI model), of the
