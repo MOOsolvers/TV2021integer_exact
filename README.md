@@ -67,7 +67,7 @@ Any error in the translation is ours, not the original authors'.
 
 The translation was verified on **160 multi-objective 0/1 knapsack instances**
 from the Multiobjective Optimization Library of Kirlik and Sayın (2014)
-(<http://home.ku.edu.tr/~moolibrary/>), for which the exact nondominated sets
+(originally at <http://home.ku.edu.tr/~moolibrary/>, mirrored at <https://github.com/srplsyn/MOOLibrary>), for which the exact nondominated sets
 are available. Every instance was solved to completion and
 the computed set compared point by point with the published one:
 
